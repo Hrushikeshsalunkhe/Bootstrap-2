@@ -1,0 +1,20 @@
+.album{
+    background: url('../sp9.jpg');
+    
+}
+.container-tb{
+    background-color:pink;
+}
+.jumbotron{
+    background-color:rgb(29, 29, 29);
+    color: white;
+}
+.text-veg{
+    background-color:gray;
+    color: white;
+}
+.text-nonveg{
+    background-color: gray;
+    color: white;
+    margin: 3px;
+}
